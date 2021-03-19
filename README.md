@@ -1,16 +1,12 @@
 # 🔥 Ignite - Trilha NodeJS
 
 <h3 align="center">
-  Desafio 04 - Introdução ao SOLID
+  Desafio 04 - Introdução ao SOLID e documentação via Swagger
 </h3>
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio o objetivo é implementar as funcionalidades que estão faltando em um projeto onde esta sendo utilizado o padrão de desenvolvimento chamado SOLID.
-
-## :rocket: Desafio complementar
-
-Existem um desafio complementar que tem como objetivo criar a documentação da API via Swagger.
+Nesse desafio o objetivo é implementar as funcionalidades que estão faltando em um projeto onde esta sendo utilizado o padrão de desenvolvimento chamado SOLID e como desafio complementar será necessário criar a documentação da API via Swagger.
 
 ### :keyboard: Instalação e Execução do Projeto
 
