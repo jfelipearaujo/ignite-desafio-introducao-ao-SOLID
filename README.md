@@ -8,6 +8,10 @@
 
 Nesse desafio o objetivo é implementar as funcionalidades que estão faltando em um projeto onde esta sendo utilizado o padrão de desenvolvimento chamado SOLID.
 
+## :rocket: Desafio complementar
+
+Existem um desafio complementar que tem como objetivo criar a documentação da API via Swagger.
+
 ### :keyboard: Instalação e Execução do Projeto
 
 - Clone este repositório
@@ -42,7 +46,7 @@ yarn dev
 
 ## :eyeglasses: Instruções sobre o que deve ser feito
 
-Existe uma documentação no Notion sobre as rotas e testes, clique **[aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)** para acessar!
+Existe uma documentação no Notion sobre as rotas e testes, clique **[aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)** para acessar ou clique **[aqui](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f)** para acessar a documentação referente ao Swagger!
 
 ## :memo: Licença
 
